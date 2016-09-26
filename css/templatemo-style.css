@@ -531,6 +531,10 @@ h3.profile-title {
   display: inline-block;
 }
 
+.extra-space-loc {
+  padding-top: 3px;
+}
+
 .li-separator {
   border-bottom: 1px #dddddd solid;
   margin: 15px 15% 15px 0px;
