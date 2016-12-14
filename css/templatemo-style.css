@@ -442,6 +442,102 @@ h3.profile-title {
 /*---------------------------------------------------------
  4. Main Content
 -------------------------------------------------------- */
+/*------ link underlines ------*/
+.stanford-red-underline {
+  text-decoration: none;
+  display: inline-table;
+  color: inherit;
+}
+
+.stanford-red-underline:hover {
+  background-color: rgba(200, 21, 21, 0.3);
+}
+
+.stanford-red-underline:after {
+  content: "";
+  border-bottom: 0.1em solid rgb(200, 21, 21);
+  display: table-caption;
+  caption-side: bottom;
+  position: relative;
+  margin-top:-0.05em;
+}
+
+.ai-blue-underline {
+  text-decoration: none;
+  display: inline-table;
+  color: inherit;
+}
+
+.ai-blue-underline:hover {
+  background-color: rgba(21, 162, 214, 0.3);
+}
+
+.ai-blue-underline:after {
+  content: "";
+  border-bottom: 0.1em solid rgb(21, 162, 214);
+  display: table-caption;
+  caption-side: bottom;
+  position: relative;
+  margin-top:-0.05em;
+}
+
+.uoft-blue-underline {
+  text-decoration: none;
+  display: inline-table;
+  color: inherit;
+}
+
+.uoft-blue-underline:hover {
+  background-color: rgba(4, 48, 150, 0.1);
+}
+
+.uoft-blue-underline:after {
+  content: "";
+  border-bottom: 0.15em solid rgb(4, 48, 150);
+  display: table-caption;
+  caption-side: bottom;
+  position: relative;
+  margin-top:-0.25em;
+}
+
+.amazon-orange-underline {
+  text-decoration: none;
+  display: inline-table;
+  color: inherit;
+}
+
+.amazon-orange-underline:hover {
+  background-color: rgba(248, 152, 29, 0.15);
+}
+
+.amazon-orange-underline:after {
+  content: "";
+  border-bottom: 0.15em solid rgb(248, 152, 29);
+  display: table-caption;
+  caption-side: bottom;
+  position: relative;
+  margin-top:-0.25em;
+}
+
+.eth-blue-underline {
+  text-decoration: none;
+  display: inline-table;
+  color: inherit;
+}
+
+.eth-blue-underline:hover {
+  background-color: rgba(31, 117, 254, 0.1);
+}
+
+.eth-blue-underline:after {
+  content: "";
+  border-bottom: 0.15em solid rgb(31, 117, 254);
+  display: table-caption;
+  caption-side: bottom;
+  position: relative;
+  margin-top:-0.25em;
+}
+
 /*------ banner ------ */
 .banner-bg {
   padding: 60px 80px;
@@ -461,34 +557,6 @@ h3.profile-title {
   top: 0;
   left: 0;
   z-index: 3;
-}
-
-.stanford-red-underline {
-  text-decoration: none;
-  display: inline-table;
-}
-
-.stanford-red-underline:after {
-  content: "";
-  border-bottom: 0.1em solid rgb(200, 21, 21);
-  display: table-caption;
-  caption-side: bottom;
-  position: relative;
-  margin-top:-0.05em;
-}
-
-.ai-blue-underline {
-  text-decoration: none;
-  display: inline-table;
-}
-
-.ai-blue-underline:after {
-  content: "";
-  border-bottom: 0.1em solid rgb(21, 162, 214);
-  display: table-caption;
-  caption-side: bottom;
-  position: relative;
-  margin-top:-0.05em;
 }
 
 .welcome-text {
