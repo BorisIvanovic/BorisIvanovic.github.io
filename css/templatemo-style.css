@@ -443,7 +443,7 @@ h3.profile-title {
  4. Main Content
 -------------------------------------------------------- */
 /*------ link underlines ------*/
-.stanford-red-underline {
+/*.stanford-red-underline {
   text-decoration: none;
   display: inline-table;
   color: inherit;
@@ -536,7 +536,7 @@ h3.profile-title {
   caption-side: bottom;
   position: relative;
   margin-top:-0.25em;
-}
+}*/
 
 /*------ banner ------ */
 .banner-bg {
