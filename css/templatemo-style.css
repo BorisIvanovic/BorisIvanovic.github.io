@@ -366,6 +366,14 @@ h3.profile-title {
   color: #282e35;
 }
 
+.ai-google-scholar {
+  -webkit-text-stroke: 0.5px;
+}
+
+.ai-arxiv {
+  -webkit-text-stroke: 0.5px;
+}
+
 .container {
   padding-left: 0px;
   padding-right: 0px;
