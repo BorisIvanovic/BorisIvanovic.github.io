@@ -567,6 +567,14 @@ h3.profile-title {
   z-index: 3;
 }
 
+.banner-overlay img {
+  height: 100%;
+  opacity: 0.3;
+  object-fit: cover;
+  width: 100%;
+  height:100%;
+}
+
 .welcome-text {
   position: relative;
   z-index: 4;
