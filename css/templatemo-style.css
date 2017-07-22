@@ -628,6 +628,17 @@ h3.profile-title {
   display: block;
 }
 
+.life-item-pub-img {
+  width: 120px;
+  float: left;
+  align-self: flex-start;
+}
+
+.life-item-pub-img img {
+  max-width: 100%;
+  display: block;
+}
+
 .life-item-content {
   width: 75%;
   margin-left: 10px;
