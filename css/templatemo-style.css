@@ -180,6 +180,10 @@ textarea {
 /*---------------------------------------------------------
  2. Basic Style
 -------------------------------------------------------- */
+b.paper-title {
+  color: #cb8c1e;
+}
+
 body {
   font-size: 14px;
   line-height: 24px;
@@ -323,7 +327,7 @@ h3.profile-title {
 }
 
 .main-navigation {
-  margin: 30px 0;
+  margin: 10px 0;
 }
 .main-navigation li {
   display: block;
