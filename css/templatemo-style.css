@@ -249,7 +249,7 @@ h1, h2, h3, h4, h5 {
 }
 
 .content-wrapper {
-  padding: 0 80px;
+  padding: 0 50px 0 50px;
 }
 @media screen and (max-width: 992px) {
   .content-wrapper {
@@ -640,7 +640,7 @@ h3.profile-title {
 }
 
 .life-item-content {
-  width: 75%;
+  width: 90%;
   margin-left: 10px;
   display: inline-block;
 }
@@ -668,7 +668,7 @@ h3.profile-title {
 
 .li-separator {
   border-bottom: 1px #dddddd solid;
-  margin: 15px 15% 15px 0px;
+  margin: 15px 0% 15px 0px;
 }
 
 /*------ projects ------ */
