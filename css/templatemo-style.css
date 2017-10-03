@@ -658,6 +658,21 @@ h3.profile-title {
   list-style: disc;
 }
 
+.life-item-content table {
+  width: 100%;
+  margin-top: 8px;
+}
+
+.life-item-content td {
+  vertical-align: middle;
+  text-align: center;
+}
+
+.life-item-content img {
+  max-height: 100px;
+  max-width: 100%;
+}
+
 .life-item-title {
   display: inline-block;
 }
