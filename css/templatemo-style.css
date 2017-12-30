@@ -264,6 +264,12 @@ h4.widget-title {
   margin-bottom: 40px;
 }
 
+h5.widget-title {
+  font-size: 14px;
+  font-family: 'robotobold';
+  margin-bottom: 20px;
+}
+
 hr {
   position: relative;
   outline: 0;
