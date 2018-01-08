@@ -261,7 +261,7 @@ h4.widget-title {
   font-size: 16px;
   font-family: 'robotobold';
   text-transform: uppercase;
-  margin-bottom: 40px;
+  margin-bottom: 20px;
 }
 
 h5.widget-title {
@@ -282,7 +282,7 @@ hr {
 }
 
 .page-section {
-  padding-top: 60px;
+  padding-top: 50px;
 }
 
 /*---------------------------------------------------------
@@ -602,6 +602,28 @@ h3.profile-title {
 
 .welcome-text a {
   color: white;
+}
+
+/*------ updates ------- */
+#updates {
+  padding-bottom: 1px;
+  margin-bottom: 10px;
+  background: #FFD6BA;
+  border-radius: 10px;
+}
+
+#updates .widget-title {
+  padding-top: 10px;
+  color: #444444;
+}
+
+#updates .update-date {
+  width: 120px;
+}
+
+#updates td {
+  padding-bottom: 4px;
+  color: #555555;
 }
 
 /*------ about us ------ */
