@@ -368,6 +368,12 @@ h3.profile-title {
 .social-icons li {
   display: inline-block;
 }
+.top-section a {
+  color: #ffd6ba;
+}
+.top-section a:hover {
+  color: #282e35;
+}
 .social-icons a {
   font-size: 18px;
   color: white;
