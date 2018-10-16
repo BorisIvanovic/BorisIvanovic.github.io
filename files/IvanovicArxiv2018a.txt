@@ -7,6 +7,5 @@
   address  = {Madrid, Spain},
   month    = {3},
   url      = {https://arxiv.org/pdf/1803.02015.pdf},
-  owner        = {borisi},
   timestamp    = {2018-03-06},
 }

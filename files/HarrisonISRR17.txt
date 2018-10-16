@@ -3,11 +3,8 @@ author = {Harrison, J. and Garg, A. and Ivanovic, B. and Zhu, Y. and Savarese, S
 title = {{ADAPT:} Zero-Shot Adaptive Policy Transfer for Stochastic Dynamical Systems},
 booktitle = {International Symposium on Robotics Research (ISRR)},
 year = {2017},
-note = {In Press},
 address = {Puerto Varas, Chile},
 month = {12},
 url = {https://arxiv.org/pdf/1707.04674.pdf},
-keywords = {press},
-owner = {pavone},
 timestamp = {2017-09-05},
 }

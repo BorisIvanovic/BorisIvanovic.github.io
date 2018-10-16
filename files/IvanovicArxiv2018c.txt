@@ -1,0 +1,12 @@
+@inproceedings{IvanovicPavone2019,
+  author = {Ivanovic, B. and Pavone, M.},
+  title = {Modeling Multimodal Dynamic Spatiotemporal Graphs},
+  booktitle = {{IEEE Conference on Robotics and Automation (ICRA)}},
+  year = {2019},
+  note = {Submitted},
+  address = {Montreal, Canada},
+  month = {5},
+  url = {https://arxiv.org/pdf/1810.05993.pdf},
+  keywords = {sub},
+  timestamp = {2018-09-16}
+}
