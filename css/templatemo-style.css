@@ -338,8 +338,11 @@ h3.profile-title {
 .main-navigation li {
   display: block;
 }
+.main-navigation li.highlight {
+  background: #334050;
+}
 .main-navigation li a {
-  padding: 15px;
+  padding: 12px;
   padding-right: 0px;
   padding-left: 30px;
   display: block;
@@ -351,7 +354,7 @@ h3.profile-title {
   font-size: 24px;
 }
 .main-navigation li a:hover {
-  background: #5b6878;
+  background: #414E5E;
 }
 .main-navigation li a.active {
   background: #495461;
@@ -804,6 +807,15 @@ h3.profile-title {
   color: white;
   text-transform: uppercase;
   border: 0;
+}
+
+/*------ advising ------ */
+.advisees {
+  width: 100%;
+}
+
+.advisees tr:first-child {
+  border-bottom: 2px solid #ddd;
 }
 
 /*---------------------------------------------------------
