@@ -710,6 +710,10 @@ h3.profile-title {
   max-width: 100%;
 }
 
+.life-item-highlight {
+  color: #3D9970;
+}
+
 .life-item-title {
   display: inline-block;
 }
