@@ -1,9 +1,9 @@
 @misc{IvanovicPavone2018,
   author = {{{\bf B.} {\bf Ivanovic}} and Pavone, M.},
-  title = {Modeling Multimodal Dynamic Spatiotemporal Graphs},
+  title = {The Trajectron: Probabilistic Multi-Agent Trajectory Modeling with Dynamic Spatiotemporal Graphs},
   booktitle = {{arXiv}},
   year = {2018},
   url = {https://arxiv.org/pdf/1810.05993.pdf},
   owner = {borisi},
-  timestamp = {2018-09-16}
+  timestamp = {2019-04-24}
 }
