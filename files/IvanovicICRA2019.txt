@@ -3,10 +3,10 @@
   title = {{BaRC:} Backward Reachability Curriculum for Robotic Reinforcement Learning},
   booktitle = {{IEEE Conference on Robotics and Automation (ICRA)}},
   year = {2019},
-  note = {Submitted},
+  note = {In Press},
   address = {Montreal, Canada},
   month = {5},
   url = {https://arxiv.org/pdf/1806.06161.pdf},
-  keywords = {sub},
+  keywords = {press},
   timestamp = {2018-09-05}
 }
