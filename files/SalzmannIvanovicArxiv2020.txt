@@ -1,0 +1,8 @@
+@misc{SalzmannIvanovicEtAl2020,
+  author       = {Salzmann, T. and Ivanovic, B. and Chakravarty, P. and Pavone, M.},
+  title        = {Trajectron++: Multi-Agent Generative Trajectory Forecasting With Heterogeneous Data for Control},
+  journal      = {arXiv preprint arXiv:2001.03093},
+  year         = {2020},
+  abstract     = {Reasoning about human motion through an environment is an important prerequisite to safe and socially-aware robotic navigation. As a result, multi-agent behavior prediction has become a core component of modern human-robot interactive systems, such as self-driving cars. While there exist a multitude of methods for trajectory forecasting, many of them have only been evaluated with one semantic class of agents and only use prior trajectory information, ignoring a plethora of information available online to autonomous systems from common sensors. Towards this end, we present Trajectron++, a modular, graph-structured recurrent model that forecasts the trajectories of a general number of agents with distinct semantic classes while incorporating heterogeneous data (e.g. semantic maps and camera images). Our model is designed to be tightly integrated with robotic planning and control frameworks; it is capable of producing predictions that are conditioned on ego-agent motion plans. We demonstrate the performance of our model on several challenging real-world trajectory forecasting datasets, outperforming a wide array of state-of-the-art deterministic and generative methods.},
+  url          = {https://arxiv.org/pdf/2001.03093.pdf},
+}

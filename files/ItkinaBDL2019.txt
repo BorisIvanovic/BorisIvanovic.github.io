@@ -1,0 +1,9 @@
+@Inproceedings{ItkinaIvanovicEtAl2019,
+  author       = {Itkina, M. and Ivanovic, B. and Senanayake, R. and Kochenderfer, M. J. and Pavone, M.},
+  title        = {Evidential Disambiguation of Latent Multimodality in Conditional Variational Autoencoders},
+  booktitle    = {{Workshop on Bayesian Deep Learning, Advances in Neural Information Processing Systems (NeurIPS)}},
+  year         = {2019},
+  address  = {Vancouver, Canada},
+  month    = {12},
+  url      = {http://bayesiandeeplearning.org/2019/papers/34.pdf},
+}
