@@ -727,6 +727,13 @@ h3.profile-title {
   margin: 15px 0% 15px 0px;
 }
 
+.bulleted {
+  margin-left: 30px;
+  margin-top: -10px;
+  margin-bottom: 10px;
+  list-style-type: disc;
+}
+
 /*------ projects ------ */
 .projects-holder {
   margin-right: 0;
