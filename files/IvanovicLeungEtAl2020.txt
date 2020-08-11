@@ -1,0 +1,7 @@
+@Inproceedings{IvanovicLeungEtAl2020,
+  author       = {Ivanovic, B. and Leung, K. and Schmerling, E. and Pavone, M.},
+  title        = {Multimodal Deep Generative Models for Trajectory Prediction: A Conditional Variational Autoencoder Approach},
+  booktitle    = {arXiv},
+  year         = {2020},
+  url          = {https://arxiv.org/pdf/2008.03880.pdf}
+}
