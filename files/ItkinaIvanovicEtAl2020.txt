@@ -1,0 +1,7 @@
+@Inproceedings{ItkinaIvanovicEtAl2020,
+  author       = {Itkina, M. and Ivanovic, B. and Senanayake, R. and Kochenderfer, M. J. and Pavone, M.},
+  title        = {Evidential Disambiguation of Latent Multimodality in Conditional Variational Autoencoders},
+  booktitle    = {{Conference on Neural Information Processing Systems (NeurIPS)}},
+  year         = {2020},
+  month        = {12}
+}
