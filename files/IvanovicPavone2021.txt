@@ -1,0 +1,11 @@
+@inproceedings{IvanovicPavone2021,
+  author = {Ivanovic, B. and Pavone, M.},
+  title = {Rethinking Trajectory Forecasting Evaluation},
+  abstract = {Forecasting the behavior of other agents is an integral part of the modern robotic autonomy stack, especially in safety-critical scenarios with human-robot interaction, such as autonomous driving. In turn, there has been a significant amount of interest and research in trajectory forecasting, resulting in a wide variety of approaches. Common to all works, however, is the use of the same few accuracy-based evaluation metrics, e.g., displacement error and log-likelihood. While these metrics are informative, they are task-agnostic and predictions that are evaluated as equal can lead to vastly different outcomes, e.g., in downstream planning and decision making. In this work, we take a step back and critically evaluate current trajectory forecasting metrics, proposing task-aware metrics as a better measure of performance in systems where prediction is being deployed. We additionally present one example of such a metric, incorporating planning-awareness within existing trajectory forecasting metrics.},
+  month = nov,
+  year = {2021},
+  note = {Submitted},
+  keywords = {sub},
+  owner = {borisi},
+  timestamp = {2021-07-21}
+}
