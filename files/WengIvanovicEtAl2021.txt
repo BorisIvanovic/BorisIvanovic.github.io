@@ -1,0 +1,10 @@
+@inproceedings{WengIvanovicEtAl2021,
+  author = {Weng, X. and Ivanovic, B. and Pavone, M.},
+  title = {MTP: Multi-hypothesis Tracking and Prediction for Reduced Error Propagation},
+  month = may,
+  year = {2022},
+  note = {Submitted},
+  keywords = {sub},
+  owner = {borisi},
+  timestamp = {2021-10-12}
+}

@@ -1,0 +1,12 @@
+@inproceedings{LuoZhaoEtAl2021,
+  author = {Luo, R. and Zhao, S. and Kuck, J. and Ivanovic, B. and Savarese, S. and Schmerling, E. and Pavone, M.},
+  title = {Sample-Efficient Safety Assurances using Conformal Prediction},
+  abstract = {When deploying machine learning models in high-stakes robotics applications, the ability to detect unsafe situations is crucial. Early warning systems can provide alerts when an unsafe situation is imminent (in the absence of corrective action). To reliably improve safety, these warning systems should have a provable false negative rate; i.e. of the situations that are unsafe, fewer than ϵ will occur without an alert. In this work, we present a framework that combines a statistical inference technique known as conformal prediction with a simulator of robot/environment dynamics, in order to tune warning systems to provably achieve an ϵ false negative rate using as few as 1/ϵ data points. We apply our framework to a driver warning system and a robotic grasping application, and empirically demonstrate guaranteed false negative rate and low false detection (positive) rate using very little data.},
+  month = may,
+  year = {2022},
+  note = {Submitted},
+  keywords = {sub},
+  owner = {borisi},
+  timestamp = {2021-10-12},
+  url = {https://arxiv.org/abs/2109.14082}
+}
