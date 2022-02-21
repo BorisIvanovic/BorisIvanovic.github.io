@@ -1,0 +1,10 @@
+@inproceedings{IvanovicLinEtAl2022,
+  author = {Ivanovic, B. and Lin, Y. and Shrivastava, S. and Chakravarty, P. and Pavone, M.},
+  title = {Propagating State Uncertainty Through Trajectory Forecasting},
+  booktitle = {{IEEE Conference on Robotics and Automation (ICRA)}},
+  month = {5},
+  year = {2022},
+  address = {Philadelphia, USA},
+  timestamp = {2021-10-12},
+  url = {https://arxiv.org/abs/2110.03267}
+}
