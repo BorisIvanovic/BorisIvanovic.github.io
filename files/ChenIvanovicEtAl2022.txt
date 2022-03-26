@@ -1,0 +1,11 @@
+@Inproceedings{ChenIvanovicEtAl2022,
+  author = {Chen, Y. and Ivanovic, B. and Pavone, M.},
+  title = {{ScePT}: Scene-consistent, Policy-based Trajectory Predictions for Planning},
+  booktitle = {{IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)}},
+  month = jun,
+  year = {2022},
+  address = {New Orleans, USA},
+  owner = {borisi},
+  timestamp = {2022-03-25},
+  url = {}
+}

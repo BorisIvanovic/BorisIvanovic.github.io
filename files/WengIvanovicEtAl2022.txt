@@ -1,0 +1,11 @@
+@Inproceedings{WengIvanovicEtAl2022b,
+  author = {Weng, X. and Ivanovic, B. and Pavone, M.},
+  title = {Whose Track Is It Anyway? Improving Robustness to Tracking Errors with Affinity-Based Prediction},
+  booktitle = {{IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)}},
+  month = jun,
+  year = {2022},
+  address = {New Orleans, USA},
+  owner = {borisi},
+  timestamp = {2022-03-25},
+  url = {}
+}
