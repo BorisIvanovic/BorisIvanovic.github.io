@@ -1,10 +1,9 @@
-@inproceedings{WengIvanovicEtAl2021,
+@inproceedings{WengIvanovicEtAl2022a,
   author = {Weng, X. and Ivanovic, B. and Pavone, M.},
   title = {MTP: Multi-hypothesis Tracking and Prediction for Reduced Error Propagation},
-  month = may,
+  month = jun,
   year = {2022},
-  note = {Submitted},
-  keywords = {sub},
+  booktitle = {{IEEE Intelligent Vehicles Symposium (IV)}},
   owner = {borisi},
   url = {https://arxiv.org/abs/2110.09481},
   timestamp = {2021-10-12}
