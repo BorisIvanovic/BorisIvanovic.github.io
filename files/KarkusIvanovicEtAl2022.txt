@@ -1,0 +1,11 @@
+@Inproceedings{KarkusIvanovicEtAl2022,
+  author = {Karkus, P. and Ivanovic, B. and Mannor, S. and Pavone, M.},
+  title = {{DiffStack}: A Differentiable and Modular Control Stack for Autonomous Vehicles},
+  booktitle = {{Conference on Robot Learning (CoRL)}},
+  month = dec,
+  year = {2022},
+  address = {Auckland, New Zealand},
+  owner = {borisi},
+  timestamp = {2022-09-24},
+  url = {https://openreview.net/forum?id=teEnA3L4aRe}
+}
