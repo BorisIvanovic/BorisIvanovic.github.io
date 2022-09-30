@@ -1,0 +1,11 @@
+@Inproceedings{FaridVeerEtAl2022,
+  author = {Farid, A. and Veer, S. and Ivanovic, B. and Leung, K. and Pavone, M.},
+  title = {Task-Relevant Failure Detection for Trajectory Predictors in Autonomous Vehicles},
+  booktitle = {{Conference on Robot Learning (CoRL)}},
+  month = dec,
+  year = {2022},
+  address = {Auckland, New Zealand},
+  owner = {borisi},
+  timestamp = {2022-09-24},
+  url = {https://openreview.net/forum?id=oPRhm0Aben_}
+}
