@@ -1,0 +1,10 @@
+@misc{XuChenEtAl2022,
+  author = {Xu, D. and Chen, Y. and Ivanovic, B. and Pavone, M.},
+  title = {{BITS}: Bi-level Imitation for Traffic Simulation},
+  abstract = {Simulation is the key to scaling up validation and verification for robotic systems such as autonomous vehicles. Despite advances in high-fidelity physics and sensor simulation, a critical gap remains in simulating realistic behaviors of road users. This is because, unlike simulating physics and graphics, devising first principle models for human-like behaviors is generally infeasible. In this work, we take a data-driven approach and propose a method that can learn to generate traffic behaviors from real-world driving logs. The method achieves high sample efficiency and behavior diversity by exploiting the bi-level hierarchy of driving behaviors by decoupling the traffic simulation problem into high-level intent inference and low-level driving behavior imitation. The method also incorporates a planning module to obtain stable long-horizon behaviors. We empirically validate our method, named Bi-level Imitation for Traffic Simulation (BITS), with scenarios from two large-scale driving datasets and show that BITS achieves balanced traffic simulation performance in realism, diversity, and long-horizon stability. We also explore ways to evaluate behavior realism and introduce a suite of evaluation metrics for traffic simulation. Finally, as part of our core contributions, we develop and open source a software tool that unifies data formats across different driving datasets and converts scenes from existing datasets into interactive simulation environments.},
+  year = {2022},
+  booktitle = {{arXiv}},
+  owner = {borisi},
+  timestamp = {2022-10-12},
+  url = {https://arxiv.org/abs/2208.12403}
+}
