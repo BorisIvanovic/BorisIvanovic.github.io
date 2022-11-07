@@ -1,4 +1,4 @@
-@misc{SalzmannIvanovicEtAl2020,
+@Inproceedings{SalzmannIvanovicEtAl2020,
   author       = {Salzmann, T. and Ivanovic, B. and Chakravarty, P. and Pavone, M.},
   title        = {Trajectron++: Dynamically-Feasible Trajectory Forecasting With Heterogeneous Data},
   journal      = {{European Conference on Computer Vision (ECCV)}},
