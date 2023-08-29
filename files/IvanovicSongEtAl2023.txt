@@ -1,0 +1,6 @@
+@misc{IvanovicSongEtAl2023,
+  author = {Ivanovic, B. and Song, G. and Gilitschenski, I. and Pavone, M.},
+  title = {trajdata: A Unified Interface to Multiple Human Trajectory Datasets},
+  booktitle = {{arXiv:2307.13924}},
+  url = {https://arxiv.org/abs/2307.13924}
+}

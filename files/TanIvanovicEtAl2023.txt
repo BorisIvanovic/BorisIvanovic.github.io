@@ -1,0 +1,6 @@
+@misc{TanIvanovicEtAl2023,
+  author = {Tan, S. and Ivanovic, B. and Weng, X. and Pavone, M. and Kr\"{a}henb\"{u}hl, P.},
+  title = {Language Conditioned Traffic Generation},
+  booktitle = {{arXiv:2307.07947}},
+  url = {https://arxiv.org/abs/2307.07947}
+}

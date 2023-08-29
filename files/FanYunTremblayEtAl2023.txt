@@ -1,0 +1,6 @@
+@misc{FanYunTremblayEtAl2023,
+  author = {Fan-Yun, S. and Tremblay, J. and Blukis, V. and Lin, K. and Xu, D. and Ivanovic, B. and Karkus, P. and Birchfield, S. and Fox, D. and Zhang, R. and Li, Y. and Wu, J. and Pavone, M. and Haber, N.},
+  title = {Partial-View Object View Synthesis via Filtered Inversion},
+  booktitle = {{arXiv:2304.00673}},
+  url = {https://arxiv.org/abs/2304.00673}
+}
