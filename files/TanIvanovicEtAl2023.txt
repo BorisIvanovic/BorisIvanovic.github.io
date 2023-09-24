@@ -1,6 +1,9 @@
-@misc{TanIvanovicEtAl2023,
+@Inproceedings{TanIvanovicEtAl2023,
   author = {Tan, S. and Ivanovic, B. and Weng, X. and Pavone, M. and Kr\"{a}henb\"{u}hl, P.},
   title = {Language Conditioned Traffic Generation},
-  booktitle = {{arXiv:2307.07947}},
+  booktitle = {{Conference on Robot Learning (CoRL)}},
+  month = nov,
+  year = {2023},
+  address = {Atlanta, USA},
   url = {https://arxiv.org/abs/2307.07947}
 }

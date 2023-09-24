@@ -1,6 +1,9 @@
-@misc{IvanovicSongEtAl2023,
+@Inproceedings{IvanovicSongEtAl2023,
   author = {Ivanovic, B. and Song, G. and Gilitschenski, I. and Pavone, M.},
   title = {trajdata: A Unified Interface to Multiple Human Trajectory Datasets},
-  booktitle = {{arXiv:2307.13924}},
+  booktitle = {{Neural Information Processing Systems (NeurIPS) Datasets and Benchmarks Track}},
+  month = dec,
+  year = {2023},
+  address = {New Orleans, USA},
   url = {https://arxiv.org/abs/2307.13924}
 }

@@ -1,6 +1,10 @@
-@misc{ZhongRempeEtAl2023,
+@Inproceedings{ZhongRempeEtAl2023,
   author = {Zhong, Z. and Rempe, D. and Chen, Y. and Ivanovic, B. and Cao, Y. and Xu, D. and Pavone, M. and Ray, B.},
   title = {Language-Guided Traffic Simulation via Scene-Level Diffusion},
-  booktitle = {{arXiv:2306.06344}},
+  booktitle = {{Conference on Robot Learning (CoRL)}},
+  month = nov,
+  year = {2023},
+  address = {Atlanta, USA},
+  note = {Selected for Oral Presentation},
   url = {https://arxiv.org/abs/2306.06344}
 }
