@@ -1,0 +1,8 @@
+@misc{HuangKarkusEtAl2023,
+  author = {Huang, Z. and Karkus, P. and Ivanovic, B. and Chen, Y. and Pavone, M. and Lv, C.},
+  title = {DTPP: Differentiable Joint Conditional Prediction and Cost Evaluation for Tree Policy Planning in Autonomous Driving},
+  booktitle = {{arxiv:2310.05885}},
+  month = oct,
+  year = {2023},
+  url = {https://arxiv.org/abs/2310.05885}
+}

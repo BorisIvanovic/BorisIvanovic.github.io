@@ -1,0 +1,8 @@
+@misc{CaoIvanovicEtAl2023,
+  author = {Cao, Y. and Ivanovic, B. and Xiao, C. and Pavone, M.},
+  title = {Reinforcement Learning with Human Feedback for Realistic Traffic Simulation},
+  booktitle = {{arxiv:2309.00709}},
+  month = sep,
+  year = {2023},
+  url = {https://arxiv.org/abs/2309.00709}
+}
