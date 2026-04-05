@@ -1,7 +1,0 @@
-@inproceedings{NishimuraIvanovicEtAl2020,
-  author = {Nishimura, H. and Ivanovic, B. and Gaidon, A. and Pavone, M. and Schwager, M.},
-  title = {Risk-Sensitive Sequential Action Control with Multi-Modal Human Trajectory Forecasting for Safe Crowd-Robot Interaction},
-  booktitle = {{IEEE/RSJ Int. Conf. on Intelligent Robots \& Systems}},
-  year = {2020},
-  url = {https://arxiv.org/abs/2009.05702}
-}

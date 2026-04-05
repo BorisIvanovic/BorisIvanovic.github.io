@@ -842,3 +842,47 @@ h3.profile-title {
 #footer p.copyright-text a:hover {
   color: #6cc0f7;
 }
+
+/*------ collapsible year sections ------ */
+.year-section {
+  margin-bottom: 5px;
+}
+.year-toggle {
+  cursor: pointer;
+  user-select: none;
+  -webkit-user-select: none;
+  padding: 6px 0;
+  margin-bottom: 5px;
+}
+.year-toggle:hover {
+  color: #6cc0f7;
+}
+.year-chevron {
+  display: inline-block;
+  transition: transform 0.25s ease;
+  font-size: 12px;
+  margin-right: 4px;
+}
+.year-toggle.collapsed .year-chevron {
+  transform: rotate(-90deg);
+}
+
+/*------ inline bibtex ------ */
+.bib-toggle {
+  cursor: pointer;
+}
+.bibtex-block {
+  margin-top: 8px;
+}
+.bibtex-block pre {
+  background: #f5f5f5;
+  border: 1px solid #ddd;
+  border-radius: 4px;
+  padding: 10px 14px;
+  font-size: 11px;
+  line-height: 1.5;
+  white-space: pre-wrap;
+  word-wrap: break-word;
+  max-height: 300px;
+  overflow-y: auto;
+}
